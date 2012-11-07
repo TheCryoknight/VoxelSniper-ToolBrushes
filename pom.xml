@@ -36,6 +36,10 @@
 			<id>bukkit-repo</id>
 			<url>http://repo.bukkit.org/content/groups/public</url>
 		</repository>
+		<repository>
+			<id>TVPT-Repo</id>
+			<url>http://jenkins.thevoxelbox.com/plugin/repository/everything</url>
+		</repository>
 	</repositories>
 
 	<dependencies>
@@ -43,6 +47,11 @@
 			<groupId>org.bukkit</groupId>
 			<artifactId>bukkit</artifactId>
 			<version>1.3.2-R1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.thevoxelbox</groupId>
+			<artifactId>VoxelGunsmith</artifactId>
+			<version>6.0.0-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 

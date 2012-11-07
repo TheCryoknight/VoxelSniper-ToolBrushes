@@ -1,4 +1,4 @@
-package com.thevoxelbox.voxelsniper.brush;
+package com.thevoxelbox.voxelsniper.tool.brushes;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package com.thevoxelbox.voxelsniper.brush;
+package com.thevoxelbox.voxelsniper.tool.brushes;
 
 import java.io.BufferedInputStream;
 import java.io.DataInputStream;

@@ -1,4 +1,4 @@
-package com.thevoxelbox.voxelsniper.brush;
+package com.thevoxelbox.voxelsniper.tool.brushes;
 
 import net.minecraft.server.EntityCreature;
 import net.minecraft.server.NPC;
