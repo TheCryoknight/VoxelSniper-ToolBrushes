@@ -1,0 +1,8 @@
+name: VoxelSniper-ToolBrushes
+main: com.thevoxelbox.voxelsniper.advancedprimitive.Plugin
+version: maven-version-number
+website: http://www.voxelwiki.com/minecraft/VoxelSniper
+depend: [VoxelSniper]
+authors: [Monofraps, MikeMatrix, przerwap, Gavjenks, giltwist, psanker, Deamon5550, DivineRage]
+description: >
+             Contains a lot of useful tool brushes for VoxelSniper.
